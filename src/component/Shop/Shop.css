@@ -7,4 +7,13 @@
 .produc_container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+   
 }
+.summary_container{
+width: 264px;
+height: 944px;
+background: rgba(255, 153, 0, 0.3);
+text-align:center
+}
+
