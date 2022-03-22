@@ -12,7 +12,17 @@
    width: 140px;
    height: 43px;
 }
+.menu{
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+ }
 .menu a{
     text-decoration: none;
     margin-left: 15px;
+    color:#FFFFFF
 } 
+.menu a:hover{
+    color:orange;
+}
