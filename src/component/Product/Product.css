@@ -13,6 +13,9 @@ position: relative;
     border-radius: 8px;
     margin: 7px;
 }
+.card_info{
+   margin: 0;
+}
 .card_btn{
     position: absolute;
     width: 100%;
