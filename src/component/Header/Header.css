@@ -1,0 +1,18 @@
+.header{
+     height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #1C2B35;
+    padding-left: 140px;
+    padding-right: 140px;
+    align-items: center;
+    
+}
+.header img{
+   width: 140px;
+   height: 43px;
+}
+.menu a{
+    text-decoration: none;
+    margin-left: 15px;
+} 
